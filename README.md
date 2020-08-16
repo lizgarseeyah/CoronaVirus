@@ -1,5 +1,5 @@
-# CoronaVirus
-Data Science Project on Corona Virus Pandemic
+# Covid-19 Datascience project
+
 
 Dataset Source: https://www.mathematica.org/features/covid-19-curated-data-modeling-and-policy-resources
 https://www.copyright.com/coronavirus-covid-19-data/
