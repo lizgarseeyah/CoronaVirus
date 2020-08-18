@@ -8,7 +8,7 @@ Register the app using Microsoft Graph.
 Add proper permissions: “Files.ReadWrite.Selected”
 Run the python script below to generate a URL to access the COVID-19 web data.
 
-![URL Generation Code Snippet](https://octodex.github.com/images/yaktocat.png)
+![URL Generation Code Snippet](/Users/lizgarcia/Desktop/Screen\ Shot\ 2020-08-17\ at\ 11.58.17\ PM.png )
 
 The URL will use the created API to directly access the data.
 
