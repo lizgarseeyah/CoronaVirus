@@ -1,10 +1,14 @@
 # Covid-19 Datascience project
 
+This project uses an API generated through Microsoft’s App Registration to collect data from The COVID-19 Tracking Project website. The data is exported to a desktop file. A python program imports the data from the local drive to be processed for analytics.
 
-Dataset Source: https://www.mathematica.org/features/covid-19-curated-data-modeling-and-policy-resources
-https://www.copyright.com/coronavirus-covid-19-data/
-https://guides.lib.purdue.edu/COVID19Data *contains links to raw data
-https://data.world/datasets/covid-19
-https://data.world/stephenfeagin/ma-covid-19-data
-https://data.cdc.gov/browse?limitTo=datasets
-https://outbreak.info
+Part I: Creating the API to access the COVID-19 data
+Download Postman, an API Interface App.
+Register the app using Microsoft Graph.
+Add proper permissions: “Files.ReadWrite.Selected”
+Run the python script below to generate a URL to access the COVID-19 web data.
+
+![URL Generation Code Snippet](https://octodex.github.com/images/yaktocat.png)
+
+The URL will use the created API to directly access the data.
+
